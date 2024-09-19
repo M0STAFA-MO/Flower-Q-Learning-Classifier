@@ -1,1 +1,1 @@
-Q-learning for image classification with feature extraction and clustering.
+Q-learning for image classification with  clustering.
